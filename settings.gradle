@@ -1,2 +1,3 @@
+include ':ok3'
 include ':app'
 rootProject.name = "OK3TestApplication"
